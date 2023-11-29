@@ -1,1 +1,2 @@
-Another Text file
+Updated Text file
+Second line
